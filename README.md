@@ -1,1 +1,1 @@
-# StockWatcher Examples
+# StockWatcher GWT Examples
