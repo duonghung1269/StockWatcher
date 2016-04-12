@@ -1,0 +1,5 @@
+/test-classes
+gwt-unitCache/
+war/stockwatcher/*
+/war/WEB-INF/classes
+war/WEB-INF/deploy/*
